@@ -1,69 +1,60 @@
-╭─────────────────────────────────────────────────────────╮
-│                                                         │
-│              👋 Hey, I'm Kunal                          │
-│                                                         │
-│        📊 DATA ANALYST • PYTHON • SQL • POWER BI        │
-│                                                         │
-│   Turning messy data → insights → decisions             │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
+# 👋 Hey, I'm Kunal Rao
 
-🚀 ABOUT ME
+### 📊 Aspiring Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Power BI
 
-🎓 ECE Engineering Student
-📊 Building real-world analytics projects
-🐍 Python + Pandas + NumPy
-🗄️ PostgreSQL + SQL
-📈 Power BI + DAX
-🧠 Learning advanced analytics & statistics
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-🐍 CONTRIBUTION SNAKE
+> **Turning raw data → insights → decisions.**
 
-🛠 TECH STACK
+---
 
-Python       SQL          Power BI
-Pandas       PostgreSQL  DAX
-NumPy        Git         Jupyter
+## 🧑‍💻 About Me
 
-⚡ CURRENTLY BUILDING
+🎓 B.Tech Electronics & Communication Engineering student
 
-E-Commerce Revenue & Customer Intelligence
-→ Python
-→ PostgreSQL
-→ SQL
-→ Power BI
-→ RFM
-→ Business Intelligence
+📊 Building practical **Data Analytics & Business Intelligence** projects
 
-📊 ANALYTICS I WORK WITH
+🐍 Working with **Python, Pandas & NumPy**
 
-Revenue Analysis       Customer Segmentation
-RFM Analysis           Cohort Analysis
-Sales Analysis         Delivery Analytics
-Geographic Analysis    Business Intelligence
+🗄️ Analyzing data using **SQL & PostgreSQL**
 
-🗂 FEATURED PROJECTS
+📈 Building interactive **Power BI dashboards**
 
-🛒 E-Commerce Revenue & Customer Intelligence
-End-to-end analytics project...
+🧠 Currently improving **Advanced SQL, Statistics & Data Storytelling**
 
-📈 PROJECT DASHBOARD
-[dashboard screenshot]
+💼 Looking for **Data Analyst Internships & Entry-Level Opportunities**
 
-🧠 CURRENTLY LEARNING
+---
 
-Advanced SQL
-Statistics
-Power BI / DAX
-Data Storytelling
+## ⚡ What I Do
 
-🎯 2026 GOALS
-
-[████████████░░░░] Data Analytics
-[██████████░░░░░░] Advanced SQL
-[████████░░░░░░░░] Power BI
-[██████░░░░░░░░░░] Statistics
-
-📫 CONNECT
-
-GitHub • LinkedIn • Email
+```text
+       RAW DATA
+           │
+           ▼
+   🧹 Data Cleaning
+           │
+           ▼
+   🔍 Exploratory Analysis
+           │
+           ▼
+      🐍 Python
+           │
+           ▼
+      🗄️ SQL
+           │
+           ▼
+     📊 Power BI
+           │
+           ▼
+   💡 Business Insights
+           │
+           ▼
+    📈 Better Decisions
