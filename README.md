@@ -1,53 +1,48 @@
-# Hi, I'm Kunal 👋
+# 👋 Hey, I'm Kunal Rao
 
-### Aspiring Data Analyst | Python | SQL | Power BI
+### 📊 Aspiring Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Power BI
 
-I'm a B.Tech Electronics & Communication Engineering student building practical skills in **Data Analytics, Python, SQL, and Business Intelligence**.
-
-I enjoy turning raw data into meaningful insights, dashboards, and data-driven business recommendations.
+> Turning raw data into insights, dashboards & better decisions.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 About Me
 
-* 📊 Building end-to-end Data Analytics projects
-* 🐍 Improving Python, Pandas & NumPy
-* 🗄️ Practicing SQL & PostgreSQL
-* 📈 Building interactive Power BI dashboards
-* 🧠 Learning statistics, data visualization & business analytics
-* 💼 Preparing for Data Analyst internships and entry-level roles
+🎓 B.Tech — Electronics & Communication Engineering
+
+📊 Passionate about **Data Analytics & Business Intelligence**
+
+🐍 Building with **Python, Pandas & NumPy**
+
+🗄️ Working with **SQL & PostgreSQL**
+
+📈 Creating **Power BI dashboards & DAX measures**
+
+🧠 Currently improving **Statistics, SQL & Data Visualization**
+
+💼 Open to **Data Analyst Internships & Entry-Level Opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-**Languages**
+### 📊 Data Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-* Python
-* SQL
-* MATLAB
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
-**Data Analytics**
+### 📈 Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-* Pandas
-* NumPy
-* Matplotlib
-* Exploratory Data Analysis
-* Data Cleaning
-* Customer Segmentation
-* RFM Analysis
-
-**Databases & BI**
-
-* PostgreSQL
-* Power BI
-* DAX
-
-**Tools**
-
-* Git
-* GitHub
-* Jupyter Notebook
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -55,47 +50,19 @@ I enjoy turning raw data into meaningful insights, dashboards, and data-driven b
 
 ### 🛒 E-Commerce Revenue & Customer Intelligence
 
-An end-to-end analytics project using the **Olist Brazilian E-Commerce dataset**.
-
-**What I worked on:**
-
-* Data quality analysis using Python/Pandas
-* Revenue & sales analysis
-* Customer segmentation and RFM analysis
-* Product/category performance
-* Delivery performance
-* Geographic analysis
-* SQL analytical views in PostgreSQL
-* Interactive Power BI dashboard
-* Business recommendations
-
-🔗 **[View Project →](https://github.com/kunalrao82240-lab/ecommerce-revenue-customer-intelligence)**
-
----
-
-## 📚 Currently Learning
+**End-to-end Data Analytics project**
 
 ```text
-Python → Pandas → NumPy → SQL → Statistics
-                         ↓
-                    Power BI / DAX
-                         ↓
-                  Data Analytics
-```
-
----
-
-## 🎯 Career Goal
-
-I'm looking for opportunities where I can apply **Python, SQL, Power BI, and analytical problem-solving** to real-world business problems while continuing to grow as a Data Analyst.
-
----
-
-## 📫 Connect With Me
-
-* GitHub: [@kunalrao82240-lab](https://github.com/kunalrao82240-lab)
-
----
-
-⭐ *Always learning. Always building.*
-
+Raw Data
+   ↓
+Python / Pandas
+   ↓
+EDA & Data Cleaning
+   ↓
+PostgreSQL / SQL
+   ↓
+Business Analysis
+   ↓
+Power BI + DAX
+   ↓
+Business Insights
