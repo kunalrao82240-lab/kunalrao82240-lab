@@ -1,68 +1,69 @@
-# 👋 Hey, I'm Kunal Rao
+╭─────────────────────────────────────────────────────────╮
+│                                                         │
+│              👋 Hey, I'm Kunal                          │
+│                                                         │
+│        📊 DATA ANALYST • PYTHON • SQL • POWER BI        │
+│                                                         │
+│   Turning messy data → insights → decisions             │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
 
-### 📊 Aspiring Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Power BI
+🚀 ABOUT ME
 
-> Turning raw data into insights, dashboards & better decisions.
+🎓 ECE Engineering Student
+📊 Building real-world analytics projects
+🐍 Python + Pandas + NumPy
+🗄️ PostgreSQL + SQL
+📈 Power BI + DAX
+🧠 Learning advanced analytics & statistics
 
----
+🐍 CONTRIBUTION SNAKE
 
-## 🚀 About Me
+🛠 TECH STACK
 
-🎓 B.Tech — Electronics & Communication Engineering
+Python       SQL          Power BI
+Pandas       PostgreSQL  DAX
+NumPy        Git         Jupyter
 
-📊 Passionate about **Data Analytics & Business Intelligence**
+⚡ CURRENTLY BUILDING
 
-🐍 Building with **Python, Pandas & NumPy**
+E-Commerce Revenue & Customer Intelligence
+→ Python
+→ PostgreSQL
+→ SQL
+→ Power BI
+→ RFM
+→ Business Intelligence
 
-🗄️ Working with **SQL & PostgreSQL**
+📊 ANALYTICS I WORK WITH
 
-📈 Creating **Power BI dashboards & DAX measures**
+Revenue Analysis       Customer Segmentation
+RFM Analysis           Cohort Analysis
+Sales Analysis         Delivery Analytics
+Geographic Analysis    Business Intelligence
 
-🧠 Currently improving **Statistics, SQL & Data Visualization**
+🗂 FEATURED PROJECTS
 
-💼 Open to **Data Analyst Internships & Entry-Level Opportunities**
+🛒 E-Commerce Revenue & Customer Intelligence
+End-to-end analytics project...
 
----
+📈 PROJECT DASHBOARD
+[dashboard screenshot]
 
-## ⚡ Tech Stack
+🧠 CURRENTLY LEARNING
 
-### 📊 Data Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+Advanced SQL
+Statistics
+Power BI / DAX
+Data Storytelling
 
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+🎯 2026 GOALS
 
-### 📈 Business Intelligence
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[████████████░░░░] Data Analytics
+[██████████░░░░░░] Advanced SQL
+[████████░░░░░░░░] Power BI
+[██████░░░░░░░░░░] Statistics
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+📫 CONNECT
 
----
-
-## 📌 Featured Project
-
-### 🛒 E-Commerce Revenue & Customer Intelligence
-
-**End-to-end Data Analytics project**
-
-```text
-Raw Data
-   ↓
-Python / Pandas
-   ↓
-EDA & Data Cleaning
-   ↓
-PostgreSQL / SQL
-   ↓
-Business Analysis
-   ↓
-Power BI + DAX
-   ↓
-Business Insights
+GitHub • LinkedIn • Email
